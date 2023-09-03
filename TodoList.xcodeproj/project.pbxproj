@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8AA630A04374F835D3DE986A /* Pods_TodoList.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 30B893191567CDAD84DF7949 /* Pods_TodoList.framework */; };
-		E02172282AA3FFA900CE2082 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E02172272AA3FFA900CE2082 /* GoogleService-Info.plist */; };
+		E021722A2AA4032500CE2082 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E02172292AA4032500CE2082 /* GoogleService-Info.plist */; };
 		E0BD54202A6B81AF004E5C83 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0BD541F2A6B81AF004E5C83 /* AppDelegate.swift */; };
 		E0BD54222A6B81AF004E5C83 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0BD54212A6B81AF004E5C83 /* SceneDelegate.swift */; };
 		E0BD54242A6B81AF004E5C83 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0BD54232A6B81AF004E5C83 /* MainViewController.swift */; };
@@ -19,7 +19,7 @@
 
 /* Begin PBXFileReference section */
 		30B893191567CDAD84DF7949 /* Pods_TodoList.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TodoList.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		E02172272AA3FFA900CE2082 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../../../Library/Mobile Documents/com~apple~CloudDocs/Firebase Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		E02172292AA4032500CE2082 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		E0BD541C2A6B81AF004E5C83 /* TodoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TodoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0BD541F2A6B81AF004E5C83 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E0BD54212A6B81AF004E5C83 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -88,7 +88,7 @@
 				E0BD54252A6B81AF004E5C83 /* Main.storyboard */,
 				E0BD54282A6B81B1004E5C83 /* Assets.xcassets */,
 				E0BD542A2A6B81B1004E5C83 /* LaunchScreen.storyboard */,
-				E02172272AA3FFA900CE2082 /* GoogleService-Info.plist */,
+				E02172292AA4032500CE2082 /* GoogleService-Info.plist */,
 				E0BD542D2A6B81B1004E5C83 /* Info.plist */,
 			);
 			path = TodoList;
@@ -155,7 +155,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E0BD542C2A6B81B1004E5C83 /* LaunchScreen.storyboard in Resources */,
-				E02172282AA3FFA900CE2082 /* GoogleService-Info.plist in Resources */,
+				E021722A2AA4032500CE2082 /* GoogleService-Info.plist in Resources */,
 				E0BD54292A6B81B1004E5C83 /* Assets.xcassets in Resources */,
 				E0BD54272A6B81AF004E5C83 /* Main.storyboard in Resources */,
 			);
